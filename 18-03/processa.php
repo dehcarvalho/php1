@@ -32,4 +32,3 @@ if(!empty($nome)&&!empty($email)){
       echo "<b>Recuperação.</b>";
   }
 ?>
-
